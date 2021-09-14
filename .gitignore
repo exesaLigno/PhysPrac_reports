@@ -1,1 +1,7 @@
 labnik.pdf
+*.aux
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+*.log
