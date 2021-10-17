@@ -4,4 +4,3 @@
 \contentsline {section}{\numberline {3}Экспериметальная установка}{2}{section.3}%
 \contentsline {section}{\numberline {4}Ход работы и обработка результатов}{3}{section.4}%
 \contentsline {section}{\numberline {5}Вывод}{4}{section.5}%
-\contentsline {section}{\numberline {6}Приложение}{5}{section.6}%
