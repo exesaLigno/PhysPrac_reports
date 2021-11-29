@@ -1,5 +1,7 @@
 labnik.pdf
 *.aux
+*.toc
+*.json
 *.fls
 *.fdb_latexmk
 *.out
